@@ -1,2 +1,2 @@
 # Satish_Codingbin
-Spark, Pyspark and Pyhton code exaples
+Spark, Pyspark and Pyhton code examples
